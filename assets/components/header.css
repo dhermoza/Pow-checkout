@@ -6,7 +6,7 @@
 
 .title > h1 {
   padding: 15px 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'DM Serif Display', serif;
 }
 
 .navbar {
@@ -25,4 +25,20 @@
   text-decoration: underline;
   text-decoration-style: solid;
   text-underline-offset: 10px;
+}
+
+.navbar-icons {
+  color: black;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.navbar-icons-left {
+  color: #F7F7F7;
+}
+.navbar-icon {
+  margin-left: 10px;
+}
+
+.navbar-icons > i:hover{
+  color: gray;
 }
