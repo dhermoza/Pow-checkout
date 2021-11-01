@@ -1,0 +1,28 @@
+
+.header {
+  background-color: #F7F7F7;
+  height: 151px;
+}
+
+.title > h1 {
+  padding: 15px 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar > a {
+  text-decoration: none;
+  padding: 0 10px;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-underline-offset: 10px;
+}

@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.subtitle {
+  padding-top: 10px;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}

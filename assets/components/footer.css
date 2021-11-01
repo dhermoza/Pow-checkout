@@ -1,0 +1,31 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: #F7F7F7;
+  height: 89px;
+  padding-top: 15px;
+  align-items: center;
+}
+
+.rrss > i {
+  padding: 0 8px;
+}
+.options {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 5px;
+}
+
+.options > a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  padding: 0 10px;
+}
+
+.name p {
+  margin-bottom: 0px;
+  font-weight: bold;
+}

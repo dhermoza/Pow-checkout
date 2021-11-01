@@ -1,0 +1,17 @@
+
+.pre-header {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  height: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lato', sans-serif;
+
+}
+
+.pre-header > p {
+  margin-bottom: 0px;
+}

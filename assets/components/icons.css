@@ -1,0 +1,38 @@
+.icons {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px 0;
+  margin: 5px 0;
+  background-color: #F7F7F7 ;
+}
+
+.sub-section {
+  display: flex;
+  justify-content: center;
+  height: 96px;
+}
+
+.sub-section > i {
+  font-size: 42px;
+  align-self: center;
+}
+
+.sub-section-p {
+  padding-left: 10px;
+  align-self: center;
+  text-align: start;
+}
+
+.sub-section-p > h6 {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 500;
+   font-size: 14px;
+   margin-bottom: 0px;
+}
+
+.sub-section-p > p {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 400;
+   font-size: 14px;
+   margin-bottom: 0px;
+}

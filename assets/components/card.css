@@ -1,0 +1,42 @@
+.resumen {
+  background-color: #F7F7F7;
+  height: 188px;
+}
+
+.sub-items {
+  padding: 20px;
+}
+
+.sub-items-title{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.sub-items-subtitle {
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+}
+
+.total {
+  font-size: 13px;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sub-items-subtitle .subtotal {
+  display: flex;
+  justify-content: space-between;
+}
+
+.aviso {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #3DB56A;
+}
+
+.botones {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
