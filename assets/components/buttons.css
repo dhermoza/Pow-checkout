@@ -29,3 +29,9 @@
   border-color:gray;
   color: white;
  }
+
+.btn-minus {
+  background-color: white;
+  color: black;
+  border-radius: 2px;
+}
